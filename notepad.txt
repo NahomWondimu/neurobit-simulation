@@ -1,0 +1,4 @@
+"""
+(59, 68, 75) - grey used for grid lines
+(230, 58, 58) - red used for barriers in maze
+"""
