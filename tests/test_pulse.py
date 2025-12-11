@@ -5,7 +5,7 @@ initialization, step progression, TTL management, and history tracking.
 """
 
 import unittest
-from neurobit_walker import Neurobit, NeuroPulse
+from src.neurobit_walker import Neurobit, NeuroPulse
 
 class TestNeuroPulse(unittest.TestCase):
     def setUp(self):

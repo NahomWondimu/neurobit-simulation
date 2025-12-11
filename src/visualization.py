@@ -7,7 +7,7 @@ that propagate through the maze based on their neurobit patterns.
 import pygame
 import random
 import time
-from neurobit_walker import Neurobit, NeuroPulse
+from src.neurobit_walker import Neurobit, NeuroPulse
 
 # Grid Settings
 BOX_WIDTH = 20

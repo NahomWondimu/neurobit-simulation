@@ -3,7 +3,7 @@
 Demonstrates basic functionality including pattern matching and adaptation.
 """
 
-from neurobit_walker import Neurobit
+from src.neurobit_walker import Neurobit
 
 
 def main():
